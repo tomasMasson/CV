@@ -9,6 +9,8 @@ header-includes:
     \usepackage{multicol}
 ---
 
+\pagenumbering{gobble}
+
 # Tomás Masson
 
 ORCID iD: [000-0002-2634-6283](https://orcid.org/0000-0002-2634-6283)  
@@ -85,6 +87,7 @@ Experimental (wet lab):
 - Protein analysis (bacterial expression, purification, SDS-PAGE, mass spectrometry)
 - High-Throughput sequencing
 - Transmission electron microscopy
+- Microscope image processing
 
 Computational (dry lab):
 
@@ -96,69 +99,6 @@ Computational (dry lab):
 - Molecular evolution studies
 - Data analysis and plotting with Python Stack (Numpy, Pandas, Scikit-Learn, Seaborn)
 - Software development under FAIR principles
-
-\hrulefill
-
-# Scientific Meetings
-
-- XLVIII Annual Meeting of the Argentine Society of Biophysics \hfill 2019  
-National University of San Luis  
-San Luis, Argentins  
-Lighting Talk/Poster Presentation:  
-"Structural Properties of Apolipoprotein A1 Associated with Evolutionary Constraints"  
-**Masson T**, Tricerri MA, Ramella NA, Gisonno RA
-
-
-- 11th International Meeting Global Virus Network (GVN) \hfill 2019  
-Spanish Scociety of Virology  
-Barcelona, Spain  
-Poster Presentations:  
-"Proteogenomic Analysis of EpapGV occlusion body"  
-**Masson T**, Fabre ML, Pidre ML, Ferrelli ML, Romanowski V  
-"Recombinant Polyhedron Envelope Protein Produced by a Stably Transformed Insect Cell Line can be Included in the Occlusion Bodies upon Infection with Alternative Baculoviruses"  
-Fabre ML, **Masson T**, Ferrelli ML, Romanowski V  
-
-
-- XII Argentine Congress of Virology \hfill 2017  
-Argentina Society of Virology  
-Ciudad Autónoma de Buenos Aires, Argentina  
-Poster Presentations:  
-"Proteome of the Occlusion Derived Virions (ODVs) of the granulovirus of *Spodoptera frugiperda* (SfGV)"  
-**Masson T**, Fabre ML, Ferrelli ML, Pidre ML, Romanowski V  
-"Improvement of the Baculovirus of *Anticarsia gemmatalis* as a Biological Control Agent by Incorporating Heterologous Proteins in the Occlusion Bodies"  
-Fabre ML, **Masson T**, Romanowski V
-
-
-\hrulefill
-
-# Academic Courses
-
-- Computational tools for scientists \hfill 2019  
-Institute of Liquids and Biological Systems, La Plata, Argentina
-
-- Cryo-EM and X-ray Crystallography: on the Frontier of Structural Biology \hfill 2019  
-Faculty of Exact and Natural Sciences, University of Buenos Aires, Argentina
-
-- Computational Approaches to Study Intrinsically Disordered Proteins \hfill 2018  
-National University of Quilmes, Argentina
-
-- Comparative Analysis of Microbial Genomes: Pangenomics and Phyloinformatics \hfill 2018  
-Faculty of Exact Sciences, National University of La Plata, Argentina
-
-- Basic and Advanced Applications of Flow Cytometry \hfill 2017-2018  
-Faculty of Exact Sciences, National University of La Plata, Argentina 
-
-- Training in the Handling of Databases for the Study of Biomedical Sciences \hfill 2017  
-Faculty of Medical Sciences, National University of Rosario, Argentina
-
-- Statistical Treatment of Life Sciences Data with Free Software R \hfill 2017  
-Faculty of Pharmacy and Biochemistry, University of Buenos Aires, Argentina
-
-- Peptide and Protein Mass Spectrometry \hfill 2017  
-Multidisciplinary Institute of Cell Biology (IMBICE), La Plata, Argentina
-
-- Molecular and Cellular Bases of Immunopathologies \hfill 2016  
-Institute of Immunological and Physiopathological Studies (IIFP), La Plata, Argentina
 
 \hrulefill
 
