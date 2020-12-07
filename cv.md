@@ -96,6 +96,8 @@ Computational (dry lab):
 - Molecular evolution studies
 - Data analysis and plotting with Python Stack (Numpy, Pandas, Scikit-Learn, Seaborn)
 - Software development under FAIR principles
+- Microscope image processing
+- Machine learning techniques
 
 \hrulefill
 
