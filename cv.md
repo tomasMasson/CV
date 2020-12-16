@@ -22,15 +22,16 @@ Calle 49 y 115, La Plata, Argentina
 
 # Current Position
 
-PhD Candidate, Molecular Virology \hfill 2016-Present
+PhD Candidate, Biological Sciences \hfill 2016-Present
 
-Thesis title: 'Characterization of Autochthonous Baculovirus as Candidates for the Control of the Fall Armyworm (*Spodoptera frugiperda*)'
+Thesis title: "Characterization of Autochthonous Baculovirus as Candidates for the Control of the Fall Armyworm (*Spodoptera frugiperda*)"
 
 \hrulefill
 
 # Education
 
-Masters Degree (Licenciatura) in Biotechnology and Molecular Biology \hfill 2011-2016  
+Licentiate degree (equivalent to a Master's degree) in Biotechnology and Molecular Biology\hfill 2011-2016  
+Grading score: 9.33 over 10  
 La Plata National University
 
 \hrulefill
@@ -73,28 +74,27 @@ Argentina
 
 # Skills and Techniques
 
-Languages: spanish (native) and english (proficient)
+Languages: Spanish (native) and English (proficient)
 
 Experimental (wet lab):
 
-- Insect cell culture
-- Cell transfection
+- Cell culture
 - Insect *in vivo* assays
 - Virus assays (amplification, purification, titration)
 - Molecular cloning (cloning design, PCR, restriction/ligation, screening)
-- Protein analysis (bacterial expression, purification, SDS-PAGE, mass spectrometry)
+- Protein analysis (expression, purification and analysis)
 - High-Throughput sequencing
+- Mass spectrometry
 - Transmission electron microscopy
 
 Computational (dry lab):
 
-- Proficient with Bash, Git and Python
-- Intermediate level in R
-- Pipelines development with Snakemake
-- Analysis of NGS data
-- Phylogenetic reconstructions
-- Molecular evolution studies
-- Data analysis and plotting with Python Stack (Numpy, Pandas, Scikit-Learn, Seaborn)
+- Proficient in shell scripting, Git, Python and R
+- Pipeline development with Snakemake
+- High-Throughput sequencing data analysis (genomics and transcriptomics)
+- Mass spectrometry data analysis
+- Phylogenetic reconstructions and molecular evolution studies
+- Data analysis with Python (Numpy, Pandas, Scikit-Learn, Seaborn)
 - Software development under FAIR principles
 - Microscope image processing
 - Machine learning techniques
