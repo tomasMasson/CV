@@ -102,6 +102,34 @@ Computational (dry lab):
 
 \hrulefill
 
+# References
+
+\begin{multicols}{3}
+
+Victor Romanowski, Ph.D.\\
+Institute of Biotechnology and Molecular Biology\\
+Faculty of Exact Sciences\\
+National University of La Plata\\
+victor@biol.unlp.edu.ar\\
+
+\columnbreak
+
+Maria Leticia Ferrelli, Ph.D.\\
+Institute of Biotechnology and Molecular Biology\\
+Faculty of Exact Sciences\\
+National University of La Plata\\
+lferrelli@biol.unlp.edu.ar\\
+
+\columnbreak
+
+Maria Alejandra Tricerri, Ph.D.\\
+Biochemistry Research Institute of La Plata\\
+Faculty of Medical Sciences\\
+National University of La Plata\\
+aletricerri@yahoo.com\\
+
+\end{multicols}
+
 # Scientific Meetings
 
 - XLVIII Annual Meeting of the Argentine Society of Biophysics \hfill 2019  
@@ -165,30 +193,3 @@ Institute of Immunological and Physiopathological Studies (IIFP), La Plata, Arge
 
 \hrulefill
 
-# References
-
-\begin{multicols}{3}
-
-Victor Romanowski, Ph.D.\\
-Institute of Biotechnology and Molecular Biology\\
-Faculty of Exact Sciences\\
-National University of La Plata\\
-victor@biol.unlp.edu.ar\\
-
-\columnbreak
-
-Maria Leticia Ferrelli, Ph.D.\\
-Institute of Biotechnology and Molecular Biology\\
-Faculty of Exact Sciences\\
-National University of La Plata\\
-lferrelli@biol.unlp.edu.ar\\
-
-\columnbreak
-
-Maria Alejandra Tricerri, Ph.D.\\
-Biochemistry Research Institute of La Plata\\
-Faculty of Medical Sciences\\
-National University of La Plata\\
-aletricerri@yahoo.com\\
-
-\end{multicols}
