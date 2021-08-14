@@ -1,4 +1,9 @@
 ---
+mainfont: cmunrm.ttf
+mainfontoptions:
+- BoldFont=cmunbx.ttf
+- ItalicFont=cmunti.ttf
+- BoldItalicFont=cmunbi.ttf
 fontsize: 11pt
 geometry: "left=2cm,right=2cm,top=2cm,bottom=2cm"
 output: pdf_document
@@ -23,7 +28,7 @@ Am Campus 1, 3400 Klosterneuburg, Austria
 
 # Current Position
 
-Postdoctoral researcher, Jösch & Kondrashov groups \hfill 05/2021-Present
+Postdoctoral researcher, Jösch & Kondrashov groups \hfill 05.2021-Present
 
 Institute of Science and Technology Austria (IST Austria)
 
@@ -31,7 +36,7 @@ Institute of Science and Technology Austria (IST Austria)
 
 # Education
 
-PhD Candidate, Biological Sciences \hfill 04/2016-05/2021
+PhD Candidate, Biological Sciences \hfill 04.2016-05.2021
 
 Thesis title: "Characterization of Autochthonous Baculovirus as Candidates for the Control of the Fall Armyworm (*Spodoptera frugiperda*)"  
 
@@ -41,7 +46,7 @@ Universidad Nacional de La Plata
 
 \hrulefill
 
-Licentiate degree (Bachelor of Science) in Molecular Biology\hfill 03/2011-03/2016  
+Licentiate degree (Bachelor of Science) in Molecular Biology\hfill 03.2011-03.2016  
 
 Grading score: 9.33 over 10  
 
@@ -73,10 +78,10 @@ Argentina
 
 # Peer-Reviewed Publications
 
+- Gisonno R^#^, **Masson T**^#^, Ramella N, Barrera EE, Romanowski V & Tricerri MA (2021). Evolutionary and Structural Constraints Influencing Apolipoprotein A-I Amyloid Behavior. Accepted for publication in Proteins. BioRxiv. [Link](https://doi.org/10.1101/2020.09.18.304337)
+
 - **Masson T**, Fabre ML, Pidre ML, Niz JM, Berretta MF, Romanowski V, Ferrelli ML (2021). Genomic Diversity in a Population of Spodoptera frugiperda Nucleopolyhedrovirus. Infection, Genetics and Evolution, volume 90. [Link](https://doi.org/10.1016/j.meegid.2021.104749.)
 
-- Gisonno R^#^, **Masson T**^#^, Ramella N, Barrera EE, Romanowski V & Tricerri MA (2020). Evolutionary and Structural Constraints Influencing Apolipoprotein A-I Amyloid Behavior. BioRxiv. Revisions under review. [Link](https://doi.org/10.1101/2020.09.18.304337)
- 
 - Fabre ML, **Masson T**, Haase S, Ferrelli ML & Romanowski V (2020). A Simplified Strategy to Package Foreign Proteins into Baculovirus Occlusion Bodies without Engineering the Viral Genome. Journal of Biotechnology. 307, 175-181. [Link](https://doi.org/10.1016/j.jbiotec.2019.10.017)
 
 - **Masson T**, Fabre ML, Pidre ML, Ferrelli ML, Romanowski V (2019). Protein Composition of the Occlusion Bodies of *Epinotia aporema* Granulovirus. PLoS ONE 14(2): e0207735. [Link](https://doi.org/10.1371/journal.pone.0207735)
