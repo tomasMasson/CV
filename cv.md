@@ -2,6 +2,7 @@
 fontsize: 11pt
 geometry: "left=2cm,right=2cm,top=2cm,bottom=2cm"
 output: pdf_document
+linestretch: 1.2
 papersize: a4
 link-citations: yes
 urlcolor: blue
@@ -14,26 +15,37 @@ header-includes:
 ORCID iD: [000-0002-2634-6283](https://orcid.org/0000-0002-2634-6283)  
 GitHub: [https://github.com/tomasMasson](https://github.com/tomasMasson)  
 Website: [https://tomasMasson.github.io](https://tomasMasson.github.io)  
-National University of La Plata, Faculty of Exact Sciences  
-Department of Biological Sciences  
-Calle 49 y 115, La Plata, Argentina  
-[tomasmasson0@gmail.com](tomasmasson0@gmail.com) / [tomas.masson@biol.unlp.edu.ar](tomas.masson@biol.unlp.edu.ar)  
+Institute of Sciences and Technology Austria (IST Austria)  
+Am Campus 1, 3400 Klosterneuburg, Austria  
+[tomasmasson0@gmail.com](tomasmasson0@gmail.com) / [tomas.masson@ist.ac.at](tomas.masson@ist.ac.at)  
 
 \hrulefill
 
 # Current Position
 
-PhD Candidate, Biological Sciences \hfill 2016-Present
+Postdoctoral researcher, Jösch & Kondrashov groups \hfill 05/2021-Present
 
-Thesis title: "Characterization of Autochthonous Baculovirus as Candidates for the Control of the Fall Armyworm (*Spodoptera frugiperda*)"
+Institute of Science and Technology Austria (IST Austria)
 
 \hrulefill
 
 # Education
 
-Licentiate degree (equivalent to a Master's degree) in Biotechnology and Molecular Biology\hfill 2011-2016  
+PhD Candidate, Biological Sciences \hfill 04/2016-05/2021
+
+Thesis title: "Characterization of Autochthonous Baculovirus as Candidates for the Control of the Fall Armyworm (*Spodoptera frugiperda*)"  
+
+Instituto de Biotecnología y Biología Molecular (IBBM)
+
+Universidad Nacional de La Plata
+
+\hrulefill
+
+Licentiate degree (Bachelor of Science) in Molecular Biology\hfill 03/2011-03/2016  
+
 Grading score: 9.33 over 10  
-La Plata National University
+
+Universidad Nacional de La Plata
 
 \hrulefill
 
@@ -61,9 +73,9 @@ Argentina
 
 # Peer-Reviewed Publications
 
-- **Masson T**, Fabre ML, Pidre ML, Niz JM, Berretta MF, Romanowski V, Ferrelli ML (2020). Genomic Diversity in a Population of Spodoptera frugiperda Nucleopolyhedrovirus. BioRxiv (accepted for publication by Infection, Genetics and Evolution). [Link](https://www.biorxiv.org/content/10.1101/2020.10.27.358317v1)
+- **Masson T**, Fabre ML, Pidre ML, Niz JM, Berretta MF, Romanowski V, Ferrelli ML (2021). Genomic Diversity in a Population of Spodoptera frugiperda Nucleopolyhedrovirus. Infection, Genetics and Evolution, volume 90. [Link](https://doi.org/10.1016/j.meegid.2021.104749.)
 
-- Gisonno R^#^, **Masson T**^#^, Ramella N, Barrera EE, Romanowski V & Tricerri MA (2020). Evolutionary and Structural Constraints Influencing Apolipoprotein A-I Amyloid Behavior. BioRxiv. [Link](https://doi.org/10.1101/2020.09.18.304337)
+- Gisonno R^#^, **Masson T**^#^, Ramella N, Barrera EE, Romanowski V & Tricerri MA (2020). Evolutionary and Structural Constraints Influencing Apolipoprotein A-I Amyloid Behavior. BioRxiv. Revisions under review. [Link](https://doi.org/10.1101/2020.09.18.304337)
  
 - Fabre ML, **Masson T**, Haase S, Ferrelli ML & Romanowski V (2020). A Simplified Strategy to Package Foreign Proteins into Baculovirus Occlusion Bodies without Engineering the Viral Genome. Journal of Biotechnology. 307, 175-181. [Link](https://doi.org/10.1016/j.jbiotec.2019.10.017)
 
